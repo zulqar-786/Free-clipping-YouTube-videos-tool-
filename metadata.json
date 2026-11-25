@@ -1,0 +1,6 @@
+{
+  "name": "ClipCut Studio",
+  "description": "Extract 8 to 10 polished 53-second corporate Shorts from any YouTube video link with timed scripts, 9:16 preview, and SRT/FFmpeg export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
